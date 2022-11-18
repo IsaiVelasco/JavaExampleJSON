@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Fernando",
+    "tipo": "Cliente",
+    "peso": 63.3
+  },
+  {
+    "nombre": "Jimy",
+    "tipo": "Empleado",
+    "peso": 78.7
+  },
+  {
+    "nombre": "Roberto",
+    "tipo": "Cliente",
+    "peso": 59.1
+  },
+  {
+    "nombre": "Carlos",
+    "tipo": "Empleado",
+    "peso": 75.2
+  }
+]
